@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb5d1e1e-eb21-4c5d-a937-2c3ec65cd5d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VmdeDqazy8cNNVlujyW8ShAbn5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.UmidJavaUdemy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.UmidJavaUdemy.Main" />
+      <module name="UdemyS10GenericsExample" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb5d1e1e-eb21-4c5d-a937-2c3ec65cd5d4" name="Default Changelist" comment="" />
+      <created>1577862297673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577862297673</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1577934047406">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1577934047406" />
+    <state x="479" y="253" width="408" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577918773576">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="479" y="253" width="408" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1577918773576" />
+    <state width="291" height="587" key="GridCell.Tab.0.bottom" timestamp="1577944306377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="291" height="587" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577944306377" />
+    <state width="291" height="587" key="GridCell.Tab.0.center" timestamp="1577944306377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="291" height="587" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1577944306377" />
+    <state width="291" height="587" key="GridCell.Tab.0.left" timestamp="1577944306377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="291" height="587" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1577944306377" />
+    <state width="291" height="587" key="GridCell.Tab.0.right" timestamp="1577944306377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="291" height="587" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1577944306377" />
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom" timestamp="1577944306377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577944306377" />
+    <state width="1323" height="218" key="GridCell.Tab.1.center" timestamp="1577944306377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1577944306377" />
+    <state width="1323" height="218" key="GridCell.Tab.1.left" timestamp="1577944306377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1577944306377" />
+    <state width="1323" height="218" key="GridCell.Tab.1.right" timestamp="1577944306377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1577944306377" />
+    <state x="56" y="0" key="new project wizard" timestamp="1577934746985">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="56" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1577934746985" />
+  </component>
+</project>
